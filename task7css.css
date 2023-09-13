@@ -1,0 +1,26 @@
+table{
+    background-color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+tr{
+    color: white;
+
+}
+
+.btn1{
+    background-color: white;
+    width: 200%;
+    height: 30px;
+    color: black;
+    border: 0px;
+    border-radius: 10px;
+
+}
+
+.container
+{
+    background-color: maroon;
+    background-size: 500px;;
+}

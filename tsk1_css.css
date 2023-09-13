@@ -1,0 +1,8 @@
+table ,th, td{
+  border: 1px solid;  
+  border-radius: 20px;
+  background-color: #25ce9e;
+  padding: 20px;
+  width: 1500px;
+  height: 10px;
+}

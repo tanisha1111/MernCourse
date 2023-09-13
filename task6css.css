@@ -1,0 +1,29 @@
+img{
+    display: block;
+    border-radius: 500px;
+    height: 250px;
+
+
+}
+
+.btn1{
+    background-color: rgb(51, 156, 51);
+    width: 100%;
+    height: 30px;
+    color: white;
+    border: 0px;
+}
+
+.btn2{
+    background-color: red;
+    color: white;
+    border: 0px;
+    border-radius: 100px;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+p{
+    margin-bottom: 50px;
+    margin-left: 10px;;
+}

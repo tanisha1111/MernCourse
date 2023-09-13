@@ -1,0 +1,21 @@
+th{
+    border: 1px solid;  
+  border-radius: 1px;
+  background-color: #25ce9e;
+  padding: 10px;
+  width: 1500px;
+  height: 10px;
+}
+tr{
+    border:1px solid;
+    border-radius: 1px;
+    padding: : 10px;;
+    width:1500px;
+    height:10px;
+
+}
+
+tr:nth-child(even) 
+{
+background-color: lightgray;
+}
